@@ -11,7 +11,6 @@ I have created user form using php, HTML, CSS and MySQL Database
 #### 3. `Java Script`
 #### 4. `php`
 #### 5. `MySQL Database`
-#### 6. `Bootstrap`
 
 ## Step to Setup
 
