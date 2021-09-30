@@ -32,6 +32,5 @@ Website Screen Short
 
 <img src="https://github.com/pruthvi7384/user-form/blob/master/out%20put/img2.png">
 
-<img src="https://github.com/pruthvi7384/Personal-Portfolio-php/blob/main/out%20put/img3.png">
 
 ### THANK YOU !!!
