@@ -1,5 +1,5 @@
 # User Form
-## [Demo](http://form.epizy.com/?i=2)
+## [Demo](http://user.infinityfreeapp.com)
 
 I have created user form using php, HTML, CSS and MySQL Database
 
